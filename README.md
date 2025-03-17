@@ -1,6 +1,8 @@
 Sistema de Gerenciamento de Produtos
 
 ![image](https://github.com/user-attachments/assets/fb9de859-603e-425a-a5a5-a6752fde40a3)
+![image](https://github.com/user-attachments/assets/ab2d1d7f-2ee9-48ff-b03e-8cfa30f07b66)
+
 
 
 Este é um sistema simples de gerenciamento de produtos que permite criar e listar produtos. Ele foi construído usando Node.js para o backend, SQLite como banco de dados e React para o frontend.
