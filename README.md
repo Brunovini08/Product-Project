@@ -1,6 +1,9 @@
 Sistema de Gerenciamento de Produtos
 
-Este é um sistema simples de gerenciamento de produtos que permite criar, listar, editar e excluir produtos. Ele foi construído usando Node.js para o backend, SQLite como banco de dados e React para o frontend.
+![image](https://github.com/user-attachments/assets/fb9de859-603e-425a-a5a5-a6752fde40a3)
+
+
+Este é um sistema simples de gerenciamento de produtos que permite criar e listar produtos. Ele foi construído usando Node.js para o backend, SQLite como banco de dados e React para o frontend.
 Tecnologias Utilizadas
 
     Backend:
