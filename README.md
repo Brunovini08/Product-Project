@@ -1,6 +1,6 @@
 Sistema de Gerenciamento de Produtos
 
-![image](https://github.com/user-attachments/assets/fb9de859-603e-425a-a5a5-a6752fde40a3)
+<img width="1363" height="649" alt="image" src="https://github.com/user-attachments/assets/37691b66-a7f3-4643-b3f5-8bee06fffdc5" />
 ![image](https://github.com/user-attachments/assets/ab2d1d7f-2ee9-48ff-b03e-8cfa30f07b66)
 
 
